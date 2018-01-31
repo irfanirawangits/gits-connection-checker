@@ -48,3 +48,5 @@ class SingleActivity : AppCompatActivity(), ConnectivityReceiver.ConnectivityRec
     }
 }
 ```
+
+[![](https://jitpack.io/v/irfanirawangits/gits-connection-checker.svg)](https://jitpack.io/#irfanirawangits/gits-connection-checker)
