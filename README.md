@@ -48,5 +48,12 @@ class SingleActivity : AppCompatActivity(), ConnectivityReceiver.ConnectivityRec
         onNetworkConnectionChanged(isConnected)
 
     }
+
+    override fun onResume() {
+        super.onResume()
+
+        GitsApp().setConnectivityListener(this)
+    
+    }
 }
 ```
