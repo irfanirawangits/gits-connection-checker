@@ -6,7 +6,7 @@ apply plugin: 'kotlin-android-extensions'
 
 apply plugin: 'com.github.dcendents.android-maven'
 
-group = 'id.gits'
+group = 'com.github.irfanirawangits'
 
 android {
     compileSdkVersion 26

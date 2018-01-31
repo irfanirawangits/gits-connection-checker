@@ -18,7 +18,7 @@ allprojects {
 Add the dependency:
 
 ```
-implementation 'com.github.irfanirawangits:gits-connection-checker:1.0.1'
+implementation 'com.github.irfanirawangits:gits-connection-checker:1.0.2'
 ```
 
 ### How to use it?
