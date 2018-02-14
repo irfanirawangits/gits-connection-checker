@@ -57,3 +57,14 @@ class SingleActivity : AppCompatActivity(), ConnectivityReceiver.ConnectivityRec
     }
 }
 ```
+
+## Author
+
+- Email : dadang.kotz@gmail.com
+- Call/WhatsApp : 089531183668
+- [LinkedIn][1]
+- [Instagram][2]
+
+
+[1]: https://www.linkedin.com/in/irfan-irawan-sukirman-9096bba7/
+[2]: https://www.instagram.com/ir.rawasukma/
